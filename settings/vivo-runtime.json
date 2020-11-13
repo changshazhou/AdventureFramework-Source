@@ -1,0 +1,19 @@
+{
+  "package": "com.mx.zzxhc.vivominigame",
+  "name": "装载小黄车",
+  "icon": "D:\\develop\\美术图\\装载卡车\\logo.png",
+  "versionName": "6",
+  "versionCode": "6",
+  "minPlatformVersion": "1063",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "https://liteplay-1253992229.cos.ap-guangzhou.myqcloud.com/Game/Truckload2/VIVO/",
+  "useDebugKey": false,
+  "privatePath": "D:\\develop\\cocos\\loadCar\\sign\\release\\private.pem",
+  "certificatePath": "D:\\develop\\cocos\\loadCar\\sign\\release\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

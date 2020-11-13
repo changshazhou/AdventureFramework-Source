@@ -1,0 +1,500 @@
+{
+	"item_0": {
+		"name": "item_13",
+		"type": "0",
+		"position": [
+			"-1200",
+			"0"
+		],
+		"width": "1334",
+		"height": "65",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+			}
+		],
+		"attribute": {
+			"obstacle_type": "0",
+			"attack_num": "0",
+			"move_type": "0",
+			"move_speed": "0",
+			"points": [],
+			"jump_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "jump"
+			},
+			"walk_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"attack_animation": {
+				"type": "sprite_frames",
+				"resources_key": 3
+			},
+			"resources": [
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				]
+			]
+		}
+	},
+	"item_1": {
+		"name": "item_1",
+		"type": "0",
+		"position": [
+			"0",
+			"0"
+		],
+		"width": "1334",
+		"height": "65",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+			}
+		],
+		"attribute": {
+			"obstacle_type": "0",
+			"attack_num": "0",
+			"move_type": "0",
+			"move_speed": "0",
+			"points": [],
+			"jump_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "jump"
+			},
+			"walk_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"attack_animation": {
+				"type": "sprite_frames",
+				"resources_key": 3
+			},
+			"resources": [
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				]
+			]
+		}
+	},
+	"item_2": {
+		"name": "item_2",
+		"type": "4",
+		"position": [
+			"-489",
+			"105"
+		],
+		"width": "0",
+		"height": "0",
+		"z_index": "0"
+	},
+	"item_3": {
+		"name": "item_3",
+		"type": "5",
+		"position": [
+			"-49",
+			"126"
+		],
+		"width": "0",
+		"height": "0",
+		"z_index": "0"
+	},
+	"item_4": {
+		"name": "item_4",
+		"type": "0",
+		"position": [
+			"317",
+			"162"
+		],
+		"width": "90",
+		"height": "61",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/0c16547d37946da4c5cc584a9f45ef29.png"
+			}
+		],
+		"attribute": {
+			"obstacle_type": "1",
+			"attack_num": "0",
+			"move_type": "1",
+			"move_speed": "0",
+			"move_end_point": "0"
+		}
+	},
+	"item_5": {
+		"name": "item_1",
+		"type": "3",
+		"position": [
+			300,
+			0
+		],
+		"width": "96",
+		"height": "32",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+			}
+		],
+		"attribute": {
+			"warn_distince": 500,
+			"obstacle_type": "0",
+			"attack_num": "0",
+			"move_type": "0",
+			"move_speed": "0",
+			"points": [
+				[
+					300,
+					0
+				],
+				[
+					510,
+					110
+				],
+				[
+					510,
+					0
+				]
+			],
+			"jump_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"walk_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"attack_animation": {
+				"type": "sprite_frames",
+				"resources_key": 3
+			},
+			"run_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "newAnimation"
+			},
+			"stand_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "newAnimation"
+			},
+			"resources": [
+				[
+					"map/bianfu_ske_ske",
+					"map/bianfu_ske_tex",
+					"map/bianfu_ske_tex"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				],
+				[
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png",
+					"http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+				]
+			]
+		}
+	},
+	"item_6": {
+		"name": "item_1",
+		"type": "3",
+		"position": [
+			"-272",
+			"149"
+		],
+		"width": "96",
+		"height": "32",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "http:\/\/liteplay-1253992229.cos.ap-guangzhou.myqcloud.com\/GameEdit\/resources\/wx4001c3b27b69fd60\/0\/43060ae2e881a072336c66d103743934.png"
+			}
+		],
+		"attribute": {
+			"warn_distince": 500,
+			"obstacle_type": "0",
+			"attack_num": "0",
+			"move_type": "0",
+			"move_speed": "0",
+			"points": [
+				[
+					-400,
+					30
+				]
+			],
+			"jump_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"walk_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"attack_animation": {
+				"type": "sprite_frames",
+				"resources_key": 3
+			},
+			"run_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "newAnimation"
+			},
+			"stand_animation": {
+				"type": "keel",
+				"resources_key": 0,
+				"name": "newAnimation"
+			},
+			"died_animation": {
+				"type": "sprite_frames",
+				"resources_key": 1
+			},
+			"resources": [
+				[
+					"map/bianfu_ske_ske",
+					"map/bianfu_ske_tex",
+					"map/bianfu_ske_tex"
+				],
+				[
+					"died/1",
+					"died/2",
+					"died/3",
+					"died/4",
+					"died/5"
+				]
+			]
+		}
+	},
+	"item_7": {
+		"name": "item_1",
+		"type": "6",
+		"position": [
+			-1200,
+			100
+		],
+		"width": "128",
+		"height": "190",
+		"z_index": "0",
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "fire/1.png"
+			}
+		],
+		"attribute": {
+			"warn_distince": 500,
+			"obstacle_type": "0",
+			"attack_num": "0",
+			"move_type": "0",
+			"move_speed": "0",
+			"points": [
+				[
+					-800,
+					100
+				]
+			],
+			"jump_animation": {
+				"type": "sprite_frames",
+				"resources_key": 0
+			},
+			"walk_animation": {
+				"type": "sprite_frames",
+				"resources_key": 0
+			},
+			"attack_animation": {
+				"type": "sprite_frames",
+				"resources_key": 0
+			},
+			"run_animation": {
+				"type": "sprite_frames",
+				"resources_key": 0
+			},
+			"stand_animation": {
+				"type": "sprite_frames",
+				"resources_key": 0
+			},
+			"resources": [
+				[
+					"fire/1",
+					"fire/2",
+					"fire/3",
+					"fire/4",
+					"fire/5",
+					"fire/6"
+				]
+			]
+		}
+	},
+	"item_8": {
+		"name": "item_8",
+		"type": "2",
+		"position": [
+			"-200",
+			"105"
+		],
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "map/+HP"
+			}
+		],
+		"buffer": 0,
+		"width": "107",
+		"height": "125",
+		"z_index": "0"
+	},
+	"item_9": {
+		"name": "item_9",
+		"type": "2",
+		"position": [
+			"-400",
+			"205"
+		],
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "map/slow"
+			}
+		],
+		"buffer": 6,
+		"num": 1,
+		"time": 5,
+		"interval": 5,
+		"width": "107",
+		"height": "125",
+		"z_index": "0"
+	},
+	"item_10": {
+		"name": "item_9",
+		"type": "2",
+		"position": [
+			"-400",
+			"105"
+		],
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "map/slow"
+			}
+		],
+		"buffer": 8,
+		"num": 1,
+		"time": 5,
+		"interval": 5,
+		"width": "50",
+		"height": "50",
+		"z_index": "0"
+	},
+	"item_11": {
+		"name": "item_9",
+		"type": "2",
+		"position": [
+			"-600",
+			"105"
+		],
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "map/slow"
+			}
+		],
+		"buffer": 7,
+		"num": 1,
+		"time": 5,
+		"interval": 5,
+		"width": "50",
+		"height": "50",
+		"z_index": "0"
+	},
+	"item_12": {
+		"name": "item_12",
+		"type": "2",
+		"position": [
+			"-800",
+			"105"
+		],
+		"component": [
+			{
+				"type": "sprite",
+				"sprite_frame": "map/slow"
+			}
+		],
+		"buffer": 2,
+		"num": 1,
+		"time": 5,
+		"interval": 5,
+		"width": "50",
+		"height": "50",
+		"z_index": "0"
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "help": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 206.912
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -49.155
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "c08ce9a9-c541-48bc-a89f-bf8a74ef6c27",
+  "isBundle": true,
+  "bundleName": "gameres",
+  "priority": 5,
+  "compressionType": {
+    "wechatgame": "subpackage",
+    "baidugame": "subpackage",
+    "xiaomi": "subpackage",
+    "quickgame": "subpackage",
+    "qgame": "subpackage",
+    "huawei": "subpackage",
+    "cocos-runtime": "subpackage"
+  },
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

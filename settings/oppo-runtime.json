@@ -1,0 +1,19 @@
+{
+  "certificatePath": "",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "D:\\develop\\cocos\\qq-demo\\template-banner.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1050",
+  "name": "管道工人冒险",
+  "package": "com.cskk.gdgrmx.nearme.gamecenter",
+  "privatePath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "9",
+  "versionName": "1",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

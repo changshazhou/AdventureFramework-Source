@@ -1,0 +1,1 @@
+{"package":"com.mx.zzxhc.vivominigame","name":"装载小黄车","icon":"/image/logo.png","versionName":"6","versionCode":"6","minPlatformVersion":"1063","deviceOrientation":"portrait","type":"game","config":{"logLevel":"log"},"display":{},"subpackages":[{"name":"tex","root":"tex/"}]}

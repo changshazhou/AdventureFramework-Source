@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide22",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "guide2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 109.459
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 67.123
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 40
+            }
+          ]
+        }
+      },
+      "help": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 73.946
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 236.819
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 137.551
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -52.993
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

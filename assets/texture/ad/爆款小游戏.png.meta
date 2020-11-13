@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e140e172-68a5-41c1-ab3f-6921e09e7bb3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 247,
+  "height": 57,
+  "platformSettings": {},
+  "subMetas": {
+    "爆款小游戏": {
+      "ver": "1.0.4",
+      "uuid": "dce67897-d579-45e2-812f-20a470697f78",
+      "rawTextureUuid": "e140e172-68a5-41c1-ab3f-6921e09e7bb3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 247,
+      "height": 57,
+      "rawWidth": 247,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
