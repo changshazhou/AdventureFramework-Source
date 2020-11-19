@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6978645d-93e2-4f97-a184-821e1486b888",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "热门游戏": {
+      "ver": "1.0.4",
+      "uuid": "a75d285c-833a-49d0-a281-f9c4d63c0791",
+      "rawTextureUuid": "6978645d-93e2-4f97-a184-821e1486b888",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 21,
+      "rawWidth": 86,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

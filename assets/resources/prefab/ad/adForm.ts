@@ -82,9 +82,9 @@ export default class AdForm extends UIForm {
 
 
     @property(cc.Node)
-    public sideContainer: cc = null;
+    public sideContainer: cc.Node = null;
     @property(cc.Node)
-    public sideView: cc = null;
+    public sideView: cc.Node = null;
     @property(cc.Node)
     public sideLayout: cc.Node = null;
     @property(cc.Node)

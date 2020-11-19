@@ -128,7 +128,7 @@ export default class EntityModule extends BaseModule {
             logic.willHide(data);
             logic.node.active = false;
             logic.onHide(data);
-            logic.destroy();
+            logic.node.destroy();
         }
         else {
             let pool = this._getOrNewEntityPool(logic.poolName);
