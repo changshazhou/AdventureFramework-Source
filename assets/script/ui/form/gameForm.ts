@@ -169,9 +169,9 @@ export default class gameForm extends UIForm {
 
 
     private loadLevel(level: number) {
-        this.mMapControl.loadMap(level, false, () => {
+        // this.mMapControl.loadMap(level, false, () => {
 
-        })
+        // })
     }
 
     public willHide() {
