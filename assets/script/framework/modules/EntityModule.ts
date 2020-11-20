@@ -6,35 +6,6 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class EntityModule extends BaseModule {
 
-    @property(cc.Prefab)
-    end: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    beautify: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    role: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    rolebullet: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    road: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    enemy: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    enemybullet: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    buffer: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    side: cc.Prefab = null;
-
-    @property(cc.Prefab)
-    trap: cc.Prefab = null;
 
     @property(cc.Prefab)
     mapItem: cc.Prefab = null;
